@@ -1,0 +1,24 @@
+{
+  "darkColorScheme": {
+    "primary_purple80": "#FFFFB951",
+    "secondary_purpleGrey80": "#FFDDC2A1",
+    "tertiary_pink80": "#FFB8CEA1",
+    "surface": "#FF1F1B16",
+    "background": "#FFFFFBFF"
+  },
+  "lightColorScheme": {
+    "primary_purple40": "#FF825500",
+    "secondary_purpleGrey40": "#FF6F5B40",
+    "tertiary_pink40": "#FF51643F",
+    "surface": "#FFFFFBFF",
+    "background": "#FF1F1B16"
+  },
+  "typography": {
+    "bodyLarge": {
+      "fontFamily": "Default",
+      "fontWeight": "Normal",
+      "fontSize": 16,
+      "letterSpacing": 0.5
+    }
+  }
+}
